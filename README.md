@@ -16,9 +16,9 @@ The website highlights:
 ```
 .
 ├── index.html         # Main webpage
-├── imagesoverview.png       # Image for the Overview section
-├── imagescanada.png         # Image for AI Applications in Canada
-├── imagesfuture.png         # Image for Future of AI
+├── images/overview.png       # Image for the Overview section
+├── images/canada.png         # Image for AI Applications in Canada
+├── images/future.png         # Image for Future of AI
 ```
 
 ## 🌐 Live Website
